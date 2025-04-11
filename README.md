@@ -58,8 +58,3 @@ Whether it's handling customer support tickets, legal case files, or any workflo
 - REST API endpoints for third-party integrations
 
 
-If you'd like to contribute to this project or adapt it to your organization's needs, feel free to fork the repository or reach out with suggestions. Collaboration is always welcome!
-
----
-
-Let me know if you'd like to include badges, architecture diagrams, or a live demo section as well.
